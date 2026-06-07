@@ -1,4 +1,4 @@
-# Calculadora-para-Conversao
+# Calculadora-para-Conversao-em-Python
 # Converter celsius para fahrenheit e fahrenheit para celsius.
 
 def celsius_to_fahrenheit(celsius):
